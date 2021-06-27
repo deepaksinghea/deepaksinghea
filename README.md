@@ -13,3 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Github
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You lose up to 30 percent of your taste buds during flight.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepaksinghea)](https://github.com/anuraghazra/github-readme-stats)
+
