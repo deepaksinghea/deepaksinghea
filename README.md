@@ -1,6 +1,6 @@
 ### Hi there 👋, Deepak Singh
 #### Data Science and Data Engineering
-![Data Science and Data Engineering](https://github.com/deepaksinghea/deepaksinghea/blob/main/DS.png)
+![Data Science and Data Engineering](https://github.com/deepaksinghea/deepaksinghea/blob/main/Skills.png)
 
 Passionate about delivering end to end data projects.  
 
