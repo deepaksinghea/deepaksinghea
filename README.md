@@ -15,4 +15,4 @@ Skills: Apache Spark / AWS Analytics / TensorFlow 2 / PyTorch / Model Deployment
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=deepaksinghea&show_icons=true&theme=radical)  
 
-![Profile views](https://gpvc.arturio.dev/deepaksinghea)  
+![Profile views] [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
