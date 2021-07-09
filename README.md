@@ -1,4 +1,3 @@
-#### Hi There 👋 😊 
 #### Data Science and Data Engineering
 ![Data Science and Data Engineering](https://github.com/deepaksinghea/deepaksinghea/blob/main/Skills.png)
 
