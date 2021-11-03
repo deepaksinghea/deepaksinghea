@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak Singh</h1>
-<h3 align="center">Data Engineer</h3>
+<h3 align="center">Experienced in Data Engineering & Data Science</h3>
 
 #### Data Science and Data Engineering
 ![Data Science and Data Engineering](https://github.com/deepaksinghea/deepaksinghea/blob/main/Skills.png)
